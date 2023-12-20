@@ -1,0 +1,47 @@
+*{margin: 0PX;
+padding: 0;
+}
+body{
+    background-color: rgb(118, 205, 234);
+}
+.container{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 0 20px 0 rgb(186, 187, 234);
+     top: 50%;
+   left:25%;
+     position: absolute;}
+     
+ form{
+    margin: 10px;
+
+ }
+ h1{
+ text-align: center;
+ margin-top:5px;
+ }
+ .box{
+    width: 400px;
+    height: 20px;
+    margin-top:20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+    outline: none;
+
+
+ }
+ .box1{
+    height: 160px;
+    padding-top: 10px;
+
+ }
+ button{border-radius: 20px;
+color: black;
+margin-top: 20px;
+padding: 10px;
+background-color: chartreuse;}
+
+
+
+
